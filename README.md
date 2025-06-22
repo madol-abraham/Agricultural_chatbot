@@ -1,6 +1,17 @@
 # Agricultural Chatbot for South Sudan
 
 This project implements a domain-specific chatbot focused on agricultural advice for farmers in South Sudan. The chatbot uses natural language processing techniques to provide relevant responses to farming-related questions.
+Below are the screenshot of the chatbot:
+
+
+
+![Screenshot (164)](https://github.com/user-attachments/assets/6fcb97e5-6478-4284-ba09-62dc9e23722b)
+
+
+![Screenshot (165)](https://github.com/user-attachments/assets/fad83ab5-d250-4850-9eb6-8e294b0778d7)
+
+
+![Screenshot (166)](https://github.com/user-attachments/assets/143c6a95-834a-4c79-82cf-c42f1fd968e5)
 
 ## Project Overview
 
